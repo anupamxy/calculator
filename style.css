@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    margin:0;
+    padding:0;
+    
+
+}
+body {
+    background-image: url("th (7).jpg");
+    background-size:cover;
+
+    
+  }
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    color: deeppink;
+
+    
+}
+table{
+    margin :auto;
+    background-color: crimson;
+    border-radius: 20px;
+}
+input{
+    border:10px solid rebeccapurple;
+    height:100px;
+    width:400px;
+    border-radius: 40px;
+
+
+    
+    
+
+}
+button{
+    margin:0;
+    padding:0;
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
